@@ -7,8 +7,8 @@
 
 ## 참여자 명단
 
-[Realignist](http://github.com/realignist)
-[ujuc](http://github.com/ujuc)
+* [Realignist](http://github.com/realignist)
+* [ujuc](http://github.com/ujuc)
 
 
 Thanks to [Kristian](http://github.com/kristianhasselknippe) from Fuse.
